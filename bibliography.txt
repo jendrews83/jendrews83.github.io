@@ -1,3 +1,14 @@
+<html> 
+
+  <style>
+body {
+  text-align: center;
+  background-color: #faf2e4;
+  margin: 0 15%;
+  font-family: sans-serif;
+  }
+</style>
+<body text="purple">
 <ul>
 {\bf Andrews, J.E.}, Sand, D.J., Valenti, S., Smith, Nathan., et al. ApJ, 2019, submitted 
 
@@ -6,3 +17,5 @@
 \item{Sand, D.J., Amaro, R.C., Moe, M., Graham, M.L., {\bf Andrews, J.E.}, et al., 2019, ApJL, arXiv:1903.03626}
 
 </ul>
+</body>
+</html>
